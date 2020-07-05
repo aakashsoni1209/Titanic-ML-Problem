@@ -9,7 +9,7 @@ In this problem, we need to find out the survival chances of the passenger abora
 
 Both train and test dataset is available having different number of rows and column.\
 * Test data does not contain Survived column.\
-* Train data contains  Survived column having value as 1 - Survived and 0 - Dead.
+* Train data contains  Survived column having value as 1 - Survived and 0 - Dead.\
 <https://www.kaggle.com/c/titanic/data>
 
 ## Modelling
